@@ -1,5 +1,5 @@
 
-<p><H4>YEAR 7
+<H4><p>YEAR 7
 
 FORM: 
 
@@ -57,4 +57,4 @@ BREAK
 PERIOD 3: 
 PERIOD 4:
 LUNCH
-PERIOD 5: <H4></p>
+PERIOD 5:</p></H4>
