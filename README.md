@@ -1,5 +1,5 @@
 
-<H4>YEAR 7
+<p><H4>YEAR 7
 
 FORM: 
 
@@ -10,7 +10,7 @@ PERIOD 3:
 PERIOD 4:
 LUNCH
 PERIOD 5:
-
+----------------------------
 YEAR 8
 
 FORM:  
@@ -22,7 +22,7 @@ PERIOD 3:
 PERIOD 4: 
 LUNCH
 PERIOD 5:
-
+----------------------------
 YEAR 9
 
 FORM: 
@@ -34,7 +34,7 @@ PERIOD 3:
 PERIOD 4: 
 LUNCH
 PERIOD 5:
-
+----------------------------
 YEAR 10
 
 FORM: 
@@ -46,8 +46,7 @@ PERIOD 3:
 PERIOD 4:
 LUNCH
 PERIOD 5: 
-
-
+----------------------------
 SIXTH FORM
 
 FORM: 
@@ -58,4 +57,4 @@ BREAK
 PERIOD 3: 
 PERIOD 4:
 LUNCH
-PERIOD 5: <H4>
+PERIOD 5: <H4></p>
